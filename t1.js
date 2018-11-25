@@ -1,3 +1,7 @@
-var name = '';
-var age = '';
-function (param) {  }
+
+function Student () {  
+    
+    this.name = '';
+    this.age = '';
+    
+}
